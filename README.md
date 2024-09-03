@@ -17,7 +17,7 @@ To install and use the Simple Booking CLI tool, follow these steps:
     Run the following command to install the CLI tool globally:
 
     ```bash
-    go install github.com/username/simple-booking-cli@latest
+    go install github.com/kajanan1212/simple-booking-cli@latest
     ```
 
     This will install the `simple-booking-cli` binary in your `$GOPATH/bin` or `$GOBIN` directory, which should be in your system’s `PATH`.
